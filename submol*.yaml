@@ -1,7 +1,8 @@
+---
 # authers information
 
    organism:
-	genus_species: 'Salmonella enterica'
+	- genus_species: 'Salmonella enterica'
    authors:
 	- author: 
             last_name: 'Alhafuf'
@@ -11,3 +12,4 @@
             last_name: 'Alaql'
             first_name: 'Fanan'
             middle_initial: 'A'
+...

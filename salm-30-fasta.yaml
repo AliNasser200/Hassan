@@ -1,0 +1,7 @@
+# pgap inut data direction
+fasta: 
+    class: File
+    location: contigs.fasta
+submol:
+    class: File
+    location: submol*.yaml
